@@ -33,6 +33,6 @@
 <a href="https://github.com/dayjournal/AttributeAssignment">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=AttributeAssignment&theme=nord"/>
 </a>
-<a href="https://github.com/dayjournal/JapanElevation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=JapanElevation&theme=nord"/>
+<a href="https://github.com/dayjournal/amazon-location-service-starter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=amazon-location-service-starter&theme=nord"/>
 </a>
