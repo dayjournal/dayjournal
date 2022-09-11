@@ -37,8 +37,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=cesium-starter&theme=nord"/>
 </a>
 
+<a href="https://github.com/dayjournal/itowns-starter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=itowns-starter&theme=nord"/>
+</a>
 <a href="https://github.com/dayjournal/turfjs-starter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=turfjs-starter&theme=nord"/>
+</a>
+
+<a href="https://github.com/dayjournal/geodjango-starter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=geodjango-starter&theme=nord"/>
 </a>
 <a href="https://github.com/dayjournal/AttributeAssignment">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=AttributeAssignment&theme=nord"/>
