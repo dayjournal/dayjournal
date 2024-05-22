@@ -30,27 +30,30 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=mapboxgljs-starter&theme=nord"/>
 </a>
 
+<a href="https://github.com/dayjournal/qgis-amazonlocationservice-plugin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=qgis-amazonlocationservice-plugin&theme=nord"/>
+</a>
 <a href="https://github.com/dayjournal/amazon-location-service-starter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=amazon-location-service-starter&theme=nord"/>
 </a>
+
 <a href="https://github.com/dayjournal/deckgl-starter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=deckgl-starter&theme=nord"/>
 </a>
-
 <a href="https://github.com/dayjournal/cesium-starter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=cesium-starter&theme=nord"/>
 </a>
+
 <a href="https://github.com/dayjournal/itowns-starter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=itowns-starter&theme=nord"/>
 </a>
-
 <a href="https://github.com/dayjournal/turfjs-starter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=turfjs-starter&theme=nord"/>
 </a>
+
 <a href="https://github.com/dayjournal/geodjango-starter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=geodjango-starter&theme=nord"/>
 </a>
-
 <a href="https://github.com/dayjournal/AttributeAssignment">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dayjournal&repo=AttributeAssignment&theme=nord"/>
 </a>
