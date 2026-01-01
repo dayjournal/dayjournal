@@ -1,6 +1,6 @@
-### Hi, I'm [Yasunori Kirimoto](https://www.linkedin.com/in/yasunori-kirimoto). 🗺️
+### Hi, I'm [Yasunori Kirimoto](https://www.linkedin.com/in/yasunori-kirimoto). 🚀
 
-I'm the Co-Founder and CEO of [MIERUNE](https://mierune.co.jp), a geospatial solutions company. I have been an [AWS DevTools Hero](https://builder.aws.com/community/heroes/YasunoriKirimoto) since 2022 and bring over 20 years of experience in geospatial data and applications, specializing in GIS and FOSS4G.
+I'm the Co-Founder and CEO of [MIERUNE](https://mierune.co.jp), a geospatial solutions company. I have been an [AWS DevTools Hero](https://builder.aws.com/community/heroes/YasunoriKirimoto) since 2022 and bring over 20 years of experience in geospatial data and applications, specializing in GIS and FOSS4G. 🗺️
 
 Geospatial Architect｜[AWS DevTools Hero](https://builder.aws.com/community/heroes/YasunoriKirimoto)｜[OSGeo Charter Member](https://osgeo.org/about/charter-members)｜[MapLibre Voting Member](https://github.com/maplibre/maplibre/blob/main/VOTING_MEMBERS.md)｜Co-Founder and CEO of [MIERUNE](https://mierune.co.jp)｜Owner of [dayjournal](https://dayjournal.dev)  
 
@@ -72,11 +72,10 @@ Geospatial Architect｜[AWS DevTools Hero](https://builder.aws.com/community/her
 [AWS Heroes Map](https://heroes.dayjournal.dev), [AWS re:Invent Map](https://reinvent.dayjournal.dev), [Yamaokaya Map](https://yama.dayjournal.dev), [MUG-JP Contributors Map](https://contributors.mug-jp.org), [JAWS PANKRATION 2024 Speaker Map](https://speakermap.jawspankration2024.jaws-ug.jp/)
 
 **Plugins**  
-[Leaflet.Control.Opacity](https://github.com/dayjournal/Leaflet.Control.Opacity), [maplibre-gl-opacity](https://github.com/mug-jp/maplibre-gl-opacity), [mapbox-gl-opacity ](https://github.com/dayjournal/mapbox-gl-opacity), [ol-opacity](https://github.com/dayjournal/ol-opacity)
+[Leaflet.Control.Opacity](https://github.com/dayjournal/Leaflet.Control.Opacity), [maplibre-gl-opacity](https://github.com/mug-jp/maplibre-gl-opacity), [mapbox-gl-opacity](https://github.com/dayjournal/mapbox-gl-opacity), [ol-opacity](https://github.com/dayjournal/ol-opacity)
 
 **QGIS Plugins**  
 [Amazon Location Service Plugin](https://github.com/MIERUNE/qgis-amazonlocationservice-plugin), [AttributeAssignment](https://github.com/dayjournal/AttributeAssignment), [JapanElevation](https://github.com/dayjournal/JapanElevation)
 
 **Starters**  
-[leaflet-starter](https://github.com/dayjournal/leaflet-starter), [maplibregljs-starter](https://github.com/mug-jp/maplibregljs-starter), [maplibregljs-turf-starter](https://github.com/mug-jp/maplibregljs-turf-starter), [maplibregljs-svelte-starter](https://github.com/mug-jp/maplibregljs-svelte-starter), [maplibregljs-vue-starter](https://github.com/mug-jp/maplibregljs-vue-starter)
-, [maplibregljs-amazon-location-service-starter](https://github.com/mug-jp/maplibregljs-amazon-location-service-starter), [cesium-starter](https://github.com/dayjournal/cesium-starter), [openlayers-starter](https://github.com/dayjournal/openlayers-starter), [mapboxgljs-starter](https://github.com/dayjournal/mapboxgljs-starter), [deckgl-starter](https://github.com/dayjournal/deckgl-starter), [itowns-starter](https://github.com/dayjournal/itowns-starter), [mapray-starter](https://github.com/dayjournal/mapray-starter)
+[leaflet-starter](https://github.com/dayjournal/leaflet-starter), [maplibregljs-starter](https://github.com/mug-jp/maplibregljs-starter), [maplibregljs-turf-starter](https://github.com/mug-jp/maplibregljs-turf-starter), [maplibregljs-svelte-starter](https://github.com/mug-jp/maplibregljs-svelte-starter), [maplibregljs-vue-starter](https://github.com/mug-jp/maplibregljs-vue-starter), [maplibregljs-amazon-location-service-starter](https://github.com/mug-jp/maplibregljs-amazon-location-service-starter), [cesium-starter](https://github.com/dayjournal/cesium-starter), [openlayers-starter](https://github.com/dayjournal/openlayers-starter), [mapboxgljs-starter](https://github.com/dayjournal/mapboxgljs-starter), [deckgl-starter](https://github.com/dayjournal/deckgl-starter), [itowns-starter](https://github.com/dayjournal/itowns-starter), [mapray-starter](https://github.com/dayjournal/mapray-starter)
