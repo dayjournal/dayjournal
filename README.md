@@ -11,7 +11,7 @@ Geospatial Architect｜[AWS DevTools Hero](https://builder.aws.com/community/her
 <p align="center">
   <a href="https://mug-jp.org"><img src="https://img.shields.io/badge/MapLibre_User_Group_Japan-396CB2?style=for-the-badge&logo=maplibre&logoColor=white" /></a>
   <a href="https://aws-amplify-jp.github.io"><img src="https://img.shields.io/badge/Amplify_Japan_User_Group-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" /></a>
-  <a href="https://notionsapporo.notion.site"><img src="https://img.shields.io/badge/Notion_Sapporo-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  <a href="https://notionsapporo.notion.site/notionsapporo/Notion-Sapporo-9e368739ada541ae98b6bee2311c0994"><img src="https://img.shields.io/badge/Notion_Sapporo-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 </p>
 
 ---
