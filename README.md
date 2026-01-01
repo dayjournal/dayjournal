@@ -68,20 +68,15 @@ Geospatial Architect｜[AWS DevTools Hero](https://builder.aws.com/community/her
 
 ### Products
 
-**Maps**
-- [AWS Heroes Map](https://heroes.dayjournal.dev) 
-- [AWS re:Invent Map](https://reinvent.dayjournal.dev) 
-- [Yamaokaya Map](https://yama.dayjournal.dev) 
-- [MUG-JP Contributors Map](https://contributors.mug-jp.org)
-- [JAWS PANKRATION 2024 Speaker Map](https://speakermap.jawspankration2024.jaws-ug.jp/)
+**Maps**  
+[AWS Heroes Map](https://heroes.dayjournal.dev), [AWS re:Invent Map](https://reinvent.dayjournal.dev), [Yamaokaya Map](https://yama.dayjournal.dev), [MUG-JP Contributors Map](https://contributors.mug-jp.org), [JAWS PANKRATION 2024 Speaker Map](https://speakermap.jawspankration2024.jaws-ug.jp/)
 
-**Plugins**
-- [Leaflet.Control.Opacity](https://github.com/dayjournal/Leaflet.Control.Opacity)
-- [maplibre-gl-opacity](https://github.com/mug-jp/maplibre-gl-opacity)
-- [mapbox-gl-opacity ](https://github.com/dayjournal/mapbox-gl-opacity)
-- [ol-opacity](https://github.com/dayjournal/ol-opacity)
+**Plugins**  
+[Leaflet.Control.Opacity](https://github.com/dayjournal/Leaflet.Control.Opacity), [maplibre-gl-opacity](https://github.com/mug-jp/maplibre-gl-opacity), [mapbox-gl-opacity ](https://github.com/dayjournal/mapbox-gl-opacity), [ol-opacity](https://github.com/dayjournal/ol-opacity)
 
-**QGIS Plugins**
-- [Amazon Location Service Plugin](https://github.com/MIERUNE/qgis-amazonlocationservice-plugin)
-- [AttributeAssignment](https://github.com/dayjournal/AttributeAssignment)
-- [JapanElevation](https://github.com/dayjournal/JapanElevation)
+**QGIS Plugins**  
+[Amazon Location Service Plugin](https://github.com/MIERUNE/qgis-amazonlocationservice-plugin), [AttributeAssignment](https://github.com/dayjournal/AttributeAssignment), [JapanElevation](https://github.com/dayjournal/JapanElevation)
+
+**Starters**  
+[leaflet-starter](https://github.com/dayjournal/leaflet-starter), [maplibregljs-starter](https://github.com/mug-jp/maplibregljs-starter), [maplibregljs-turf-starter](https://github.com/mug-jp/maplibregljs-turf-starter), [maplibregljs-svelte-starter](https://github.com/mug-jp/maplibregljs-svelte-starter), [maplibregljs-vue-starter](https://github.com/mug-jp/maplibregljs-vue-starter)
+, [maplibregljs-amazon-location-service-starter](https://github.com/mug-jp/maplibregljs-amazon-location-service-starter), [cesium-starter](https://github.com/dayjournal/cesium-starter), [openlayers-starter](https://github.com/dayjournal/openlayers-starter), [mapboxgljs-starter](https://github.com/dayjournal/mapboxgljs-starter), [deckgl-starter](https://github.com/dayjournal/deckgl-starter), [itowns-starter](https://github.com/dayjournal/itowns-starter), [mapray-starter](https://github.com/dayjournal/mapray-starter)
